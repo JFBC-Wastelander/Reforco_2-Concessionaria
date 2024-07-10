@@ -20,7 +20,7 @@ function remover () {
 }
 
 function listar () {
-    concessionaria.forEach()
+    
 }
 
 function atualizar () {
