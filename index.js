@@ -22,6 +22,6 @@ if (entrada == "Adicionar carro".toLowerCase() || entrada == "Adicionarcarro".to
     process.exit()
 
 } else {
-    console.log("Informe um valor correto.")
+    console.log("Informe uma entrada correta.")
 }
 }
